@@ -1,6 +1,6 @@
 ## Introduction
 
-<u>RDS Analyst</u> (''RDS-A'') is a software package for the analysis of
+<u>RDS Analyst</u> ('RDS-A') is a software package for the analysis of
 Respondent-driven sampling (RDS) data that implements recent advances in
 statistical methods.
 
@@ -27,11 +27,11 @@ the analysis of RDS data. It uses menus and dialogs to guide the user
 efficiently through the data manipulation and analysis process, and has an
 Excel-like spreadsheet for easy data frame visualization and editing. It is
 also the front-end to the very powerful capabilities accessible via the
-[R](http://r-project.org R) command-line interface and also the extensive
-capabilities of the [R](http://r-project.org R) statistical language.
+[R](http://r-project.org) command-line interface and also the extensive
+capabilities of the [R](http://r-project.org) statistical language.
 
 ## Basic facts
-* <u>RDS Analyst</u> is written for the [http://r-project.org R] statistical environment.
+* <u>RDS Analyst</u> is written for the [R](http://r-project.org) statistical environment.
 * The current development form is for Windows and Macintosh. A LINUX version will be available in installers when it is released publicly.
 
 ## Installation on an Windows PC
