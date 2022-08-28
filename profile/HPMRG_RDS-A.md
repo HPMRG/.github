@@ -130,7 +130,7 @@ For the manual, go to the [RDS Analyst Manual](http://www.deducer.org/pmwiki/pmw
 
 ## RDS Analyst citation information
 
-To cite <u>RDS Analyst</u>, go to [[citation]].
+To cite <u>RDS Analyst</u>, go to [citation](HPMRG_RDS-A-citation.md).
 
 ## RDS Analyst Discussion and Help Forum
 <a name="rdsa-help"></a>
