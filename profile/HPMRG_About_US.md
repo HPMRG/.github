@@ -1,4 +1,4 @@
-The Hard-to-Reach Population Methods Research Group is an collaborative interdisciplinary group of researchers from several universities:
+The Hard-to-Reach Population Methods Research Group is a collaborative interdisciplinary group of researchers from several universities:
 
 <span style="color:blue">**Dr. Krista J. Gile**</span> is Associate Professor of Statistics in the Department of Mathematics and Statistics at the University of Massachusetts - Amherst.  Her research focuses on developing statistical methodology for social and behavioral science research, particularly related to making inference from partially-observed social network structures. Most of her current work is focused on understanding the strengths and limitations of data sampled with link-tracing designs such as snowball sampling, contact tracing, and respondent-driven sampling.  In particular, her dissertation and recent work focus on understanding the implications of assumptions of current respondent-driven sampling (RDS) methodology, and on introducing improved estimation strategies for RDS data. For details see [her web page](http://www.math.umass.edu/~gile/).
 
