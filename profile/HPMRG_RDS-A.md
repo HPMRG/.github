@@ -51,7 +51,7 @@ A reboot is not required. You do not need to uninstall any components to update 
 <!---* Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
 <!--- This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size.-->
 <!---After you install, you <b>should</b> use the updater to keep your installation to the latest version of the packages:-->
-<! -->
+<!-- -->
 <!--- Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
 <!--- -->
 <!--- This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size. -->
