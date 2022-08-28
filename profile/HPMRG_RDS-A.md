@@ -54,17 +54,17 @@ A reboot is not required. You do not need to uninstall any components to update 
 <!--->
 <!--* Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe-->
 <!--->
-<!--This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size.-->
+<!---This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size.-->
 <!---->
-<!-- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have java installed at http://javatester.org/version.html-->
-<!-- If you get the message <i>A JRE has been found. Do you want to install another one anyway?</i>, it means that Java is already installed. In this case, click <i>No</i> so as to not reinstall it.-->
+<!--- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have java installed at http://javatester.org/version.html-->
+<!--- If you get the message <i>A JRE has been found. Do you want to install another one anyway?</i>, it means that Java is already installed. In this case, click <i>No</i> so as to not reinstall it.-->
 This is a new portable version that does not need  the Java Runtime Environment to use.
-<!-- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have the right java installed through the Windows Start menu:-->
-<!-- # Launch the <b>Windows Start</b> menu-->
-<!-- # Click on <b>All Apps</b>-->
-<!-- # Find the <b>Java</b> program listing-->
-<!-- # Click <b>About Java</b> to see the Java version -->
-<!-- If you get a result like [[Media:RDSA_MAC_Java.png|this]], it means that Java is correctly installed.If there is no <b>Java</b> listing or an earlier version number you do not have Java correctly installed. In this case, in the installer click <i>Yes</i> so as to install it -->
+<!--- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have the right java installed through the Windows Start menu:-->
+<!--- # Launch the <b>Windows Start</b> menu-->
+<!--- # Click on <b>All Apps</b>-->
+<!--- # Find the <b>Java</b> program listing-->
+<!--- # Click <b>About Java</b> to see the Java version -->
+<!--- If you get a result like [[Media:RDSA_MAC_Java.png|this]], it means that Java is correctly installed.If there is no <b>Java</b> listing or an earlier version number you do not have Java correctly installed. In this case, in the installer click <i>Yes</i> so as to install it -->
 
 <!--  If you do not have Administrator privileges and the Java Runtime Environment is not installed then you will not be able to run  <u>RDS Analyst</u>. -->
 
