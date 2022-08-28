@@ -75,7 +75,7 @@ This creates a private version of R for <u>RDS Analyst</u> to use and ensures <u
 
 ## Installation on an Apple Macintosh
 
-There is a version for Apple Macintosh computers. They must have Intel CPUs (i.e., be purchased post-2006). 
+There is a version for Apple Macintosh computers. <!-- They must have Intel CPUs (i.e., be purchased post-2006). -->
 
 The installer is [here](http://www.stat.ucla.edu/~handcock/hpmrg/software/RDSAnalystInstaller.0.72.dmg)
 
