@@ -9,14 +9,16 @@ If you are using <u>RDS Analyst</u> for research that will be published, we requ
 
 A BibTeX entry for LaTeX users is
 
- ` @Manual{,
+ ```text
+ @Manual{,
     title = {RDS Analyst: Software for the Analysis of Respondent-Driven Sampling Data},
     author = {Mark S. Handcock and Ian E. Fellows and Krista J. Gile},
     year = {2022},
     note = {Version 0.72},
     address = {Los Angeles, CA},
     url = {http://hpmrg.org},
-  }`
+  }
+  ```
 
 We have invested a lot of time and effort in creating <u>RDS Analyst</u> for use by other researchers. Please cite it in all papers where it is used.
 
