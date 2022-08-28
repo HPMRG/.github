@@ -4,4 +4,4 @@ These populations are characterized by the difficulty in survey sampling from th
 
 ## [About us](https://github.com/HPMRG/.github/blob/main/profile/HPMRG_About_US.md)
 
-## [RDS Analyst Software](https://github.com/HPMRG/.github/blob/main/profile/HPMRG_RDS-A.md)
+## Information about [RDS Analyst](https://github.com/HPMRG/.github/blob/main/profile/HPMRG_RDS-A.md) software
