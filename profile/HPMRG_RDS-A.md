@@ -107,9 +107,9 @@ It should install by default in /usr/local/bin/gfortran.
 *Note for experienced users:*
 This creates a private version of R for <u>RDS Analyst</u> to use and ensures <u>RDS Analyst</u> has the right version of R available for its use.  If you already have R installed separately, the two versions will peacefully coexist and you can use the other version of R just as you were originally.
 
-<!--After you install, you <b>should</b> use the updater to keep your installation to the latest version of the packages:-->
-<!---->
-<!--* Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.51.dmg-->
+<!-- After you install, you <b>should</b> use the updater to keep your installation to the latest version of the packages: -->
+<!-- -->
+<!-- * Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.51.dmg -->
 <!--** It should mount as a disk-image. Double-click on the installer in it (i.e., "RDSAnalystUpdater") to install the software.-->
 <!---->
 <!--This just installs the core packages (that is, anything that has changed since the full install was made). It will typically be 15 Mb in size.-->
