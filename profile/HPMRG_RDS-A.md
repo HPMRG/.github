@@ -48,15 +48,14 @@ This can install all programs and utilities needed. If you already have some ele
 A reboot is not required. You do not need to uninstall any components to update (This includes R and Java). However the <u>RDS Analyst</u> application or the R application must not be running when you update.
 
 <!--- After you install, you <b>should</b> use the updater to keep your installation to the latest version of the packages:-->
-<!---* 2Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
+<!---* Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
 <!--- This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size.-->
 <!---After you install, you <b>should</b> use the updater to keep your installation to the latest version of the packages:-->
 <! -->
-<!--- 1Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
+<!--- Download the <u>RDS Analyst</u> Updater: http://hpmrg.org/software/RDSAnalystUpdater.0.62.exe -->
 <!--- -->
-<!--- This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size.-->
-<!-- -->
-<!--- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have java installed at http://javatester.org/version.html-->
+<!--- This just installs minor updates for the core packages (that is, anything that has changed since the full install was made). It will typically be a few Mb in size. -->
+<!--- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have java installed at http://javatester.org/version.html -->
 <!--- If you get the message <i>A JRE has been found. Do you want to install another one anyway?</i>, it means that Java is already installed. In this case, click <i>No</i> so as to not reinstall it.-->
 This is a new portable version that does not need  the Java Runtime Environment to use.
 <!--- You need the Java Runtime Environment to use  <u>RDS Analyst</u>. You can check to see if you have the right java installed through the Windows Start menu:-->
