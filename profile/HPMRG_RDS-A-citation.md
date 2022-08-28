@@ -10,7 +10,7 @@ If you are using <u>RDS Analyst</u> for research that will be published, we requ
 A BibTeX entry for LaTeX users is
 
  ```text
- @Manual{,
+ @Manual{RDSA,
     title = {RDS Analyst: Software for the Analysis of Respondent-Driven Sampling Data},
     author = {Mark S. Handcock and Ian E. Fellows and Krista J. Gile},
     year = {2022},
