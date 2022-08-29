@@ -5,7 +5,7 @@ If you are using <u>RDS Analyst</u> for research that will be published, we requ
 
   Mark S. Handcock, Ian E. Fellows, Krista J. Gile (2022) RDS Analyst:
   Software for the Analysis of Respondent-Driven Sampling Data, Version
-  0.72, URL http://hpmrg.org.
+  0.72, URL https://hpmrg.org.
 
 A BibTeX entry for LaTeX users is
 
