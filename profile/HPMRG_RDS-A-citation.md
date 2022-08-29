@@ -16,7 +16,7 @@ A BibTeX entry for LaTeX users is
     year = {2022},
     note = {Version 0.72},
     address = {Los Angeles, CA},
-    url = {http://hpmrg.org},
+    url = {https://hpmrg.org},
   }
   ```
 
